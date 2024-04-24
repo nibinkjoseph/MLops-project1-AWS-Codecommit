@@ -58,6 +58,10 @@ git remote set-url origin https://git-codecommit.us-east-1.amazonaws.com/v1/repo
 To check if its correctly configured check with git remote -v
 ![image](https://github.com/nibinkjoseph/MLops-project1-AWS-Codecommit/assets/63180074/bdf9662d-76e9-435c-b639-b50f154be5ff)
 
+git push origin master
+
+
+# Step 5: 
 
 
 
