@@ -24,3 +24,15 @@ Create IAM user
 Go to HTTPS Git credentials for AWS CodeCommit (0) below and generate credentials
 ![image](https://github.com/nibinkjoseph/MLops-project1-AWS-Codecommit/assets/63180074/a8a587d1-7d75-45e8-a3af-f84ad0b8caac)
 
+# Step 2: Create a repository in Code Commit
+Repository name: mlops-jan24
+![image](https://github.com/nibinkjoseph/MLops-project1-AWS-Codecommit/assets/63180074/bcf07bb9-5d76-4497-a001-811b6a3ddd6a)
+![image](https://github.com/nibinkjoseph/MLops-project1-AWS-Codecommit/assets/63180074/a63010af-6ad5-4d93-b57f-a66c17bc47fb)
+
+This is the Repository view:
+![image](https://github.com/nibinkjoseph/MLops-project1-AWS-Codecommit/assets/63180074/0f1ddb15-9a68-4b38-b7c6-72109f74321c)
+
+
+
+
+
