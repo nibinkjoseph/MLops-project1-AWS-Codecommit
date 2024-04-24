@@ -40,7 +40,7 @@ This is the github folder:
 
 https://github.com/03sarath/aws-devops/tree/master
 
-Now clone it to the working directory
+# Step 3: Now clone it to the working directory
 
 git clone https://github.com/03sarath/aws-devops.git
 
