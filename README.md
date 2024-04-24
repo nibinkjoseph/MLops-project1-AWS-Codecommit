@@ -42,6 +42,10 @@ https://github.com/03sarath/aws-devops/tree/master
 
 Now clone it to the working directory
 
+git clone https://github.com/03sarath/aws-devops.git
+
+
+
 
 
 
