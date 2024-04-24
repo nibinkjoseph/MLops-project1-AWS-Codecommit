@@ -44,6 +44,8 @@ https://github.com/03sarath/aws-devops/tree/master
 
 git clone https://github.com/03sarath/aws-devops.git
 
+After cloning the repository and checking for status by git status command we see that it is in main branch thats the reason we dont see any file in the working directory. But checkout to master branch using the command git checkout master
+
 
 
 
