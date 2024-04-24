@@ -49,6 +49,17 @@ After cloning the repository and checking for status by git status command we se
 
 # Step 4: Move the code to AWS CodeCommit
 
+So now to move the code from local repository to AWS CodeCommit (remote repo) we need to configure the remote repo.
+
+git remote -v
+
+git remote set-url origin https://git-codecommit.us-east-1.amazonaws.com/v1/repos/mlops-jan24
+
+To check if its correctly configured check with git remote -v
+![image](https://github.com/nibinkjoseph/MLops-project1-AWS-Codecommit/assets/63180074/bdf9662d-76e9-435c-b639-b50f154be5ff)
+
+
+
 
 
 
