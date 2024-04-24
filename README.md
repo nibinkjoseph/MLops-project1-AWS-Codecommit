@@ -45,6 +45,11 @@ https://github.com/03sarath/aws-devops/tree/master
 git clone https://github.com/03sarath/aws-devops.git
 
 After cloning the repository and checking for status by git status command we see that it is in main branch thats the reason we dont see any file in the working directory. But checkout to master branch using the command git checkout master
+![image](https://github.com/nibinkjoseph/MLops-project1-AWS-Codecommit/assets/63180074/6896294f-753f-4f09-af84-bb306e7319af)
+
+
+
+
 
 
 
