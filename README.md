@@ -33,8 +33,14 @@ This is the Repository view:
 ![image](https://github.com/nibinkjoseph/MLops-project1-AWS-Codecommit/assets/63180074/0f1ddb15-9a68-4b38-b7c6-72109f74321c)
 
 Copy HTTPS
+
 https://git-codecommit.us-east-1.amazonaws.com/v1/repos/mlops-jan24
 
+This is the github folder:
+
+https://github.com/03sarath/aws-devops/tree/master
+
+Now clone it to the working directory
 
 
 
