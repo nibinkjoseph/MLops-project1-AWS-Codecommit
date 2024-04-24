@@ -13,10 +13,10 @@ Add code to the codecommit, each team member will have a user account
 Create IAM user
 ![image](https://github.com/nibinkjoseph/MLops-project1-AWS-Codecommit/assets/63180074/4bfbddf9-241e-4075-8a39-2b17eb0e36da)
 
-User name: mlops-jan24
+**User name: mlops-jan24
 
 User group name: mlops-jan24-group
 
-Policies: AdministratorAccess
+Policies: AdministratorAccess**
 
 ![image](https://github.com/nibinkjoseph/MLops-project1-AWS-Codecommit/assets/63180074/c81a3400-6d23-4d43-b7ba-1a73ca94603e)
