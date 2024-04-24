@@ -8,4 +8,6 @@ Code is sitting in  AWS CodeCommit
 AWS CodePipeline is the CI tool
 AWS CodeBuild is the CD tool
 
+Add code to the codecommit, each team member will have a user account
 # Step 1: Create a user
+Create IAM user
