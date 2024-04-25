@@ -61,7 +61,6 @@ To check if its correctly configured check with git remote -v
 git push origin master
 
 
-# Step 5: 
 
 
 
